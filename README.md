@@ -47,6 +47,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Project | Project Description | 
 |---|---|---|
-| 💡 [Cloud Projects]((https://github.com/garyking07/Portfolio)) | Cloud Architecture & Security | This repo serves as to showcase my understanding of Amazon Web Services architecture and security. With projects using Terraform, AWS & Kubernetes. | 
+| 💡 [Cloud Projects](https://github.com/garyking07/Portfolio) | Cloud Architecture & Security | This repo serves as to showcase my understanding of Amazon Web Services architecture and security. With projects using Terraform, AWS & Kubernetes. | 
 
 ***
