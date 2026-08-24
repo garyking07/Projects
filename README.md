@@ -5,7 +5,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## 📚 Table of Contents
 - [SQL](#sql)
 - [Python](#python)
-- [Power BI](#tableau)
+- [Power BI](#PowerBI)
 - [Cloud](#Cloud)
 
 ***
@@ -34,7 +34,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ***
 
-# Power BI
+# PowerBI
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
